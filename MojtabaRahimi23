@@ -1,0 +1,4 @@
+git remote add origin https://github.com/MojtabaRahimi23/MojtabaRahimi23.git
+ شاخه git -M main 
+git push -u origin main
+https://github.com/MojtabaRahimi23/MojtabaRahimi23.git
